@@ -53,7 +53,7 @@ const CreateBlog = () => {
 
     return (
         <div>
-            <h2>Create a New Blog Post</h2>
+            <h1>Create a New Blog Post</h1>
             <form onSubmit={handleSubmit}>
                 <div>
                     <label>Title:</label>

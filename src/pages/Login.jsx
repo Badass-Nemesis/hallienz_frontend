@@ -74,7 +74,7 @@ function LoginForm() {
             </form>
 
             <h1>
-                Go to Blogs after Login
+                Go to Blogs or Create Blog after Login
             </h1>
         </div>
     );
